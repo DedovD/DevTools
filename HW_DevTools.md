@@ -1,5 +1,6 @@
 Devtools HW
 
+Видео по ссылке ниже
 https://drive.google.com/file/d/1BGydGVmc8cruzBvkV1X5aUb7MQhOJqK0/view?usp=share_link
 
  1. Открыть Chrome DevTools
